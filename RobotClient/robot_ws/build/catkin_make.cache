@@ -1,0 +1,2 @@
+data_publisher
+-DPYTHON_EXECUTABLE=/usr/bin/python3 -DCATKIN_DEVEL_PREFIX=/home/codezen/ROSRobot/robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/codezen/ROSRobot/robot_ws/install -G Unix Makefiles
