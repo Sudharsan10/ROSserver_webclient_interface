@@ -1,0 +1,25 @@
+.header {
+    color: #085858;
+    font-weight: 600;
+}
+.header>h1{
+    color: #008b8b;
+    font-weight: 600;
+}
+
+#sensor-data-plot {
+    height: 375px;
+}
+#status > img{
+    height : 10 rem;
+}
+
+.margin-top-xl {
+    margin-top: 5em;
+}
+
+.container {
+    background-color: rgba(243, 241, 231, 0.918);
+    height: 100vmin;
+    width: 80%;
+}

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/codezen/ROSserver/rci_ws/install/setup.sh

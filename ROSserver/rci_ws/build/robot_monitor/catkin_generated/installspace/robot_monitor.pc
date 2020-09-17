@@ -1,0 +1,8 @@
+prefix=/home/codezen/ROSserver/rci_ws/install
+
+Name: robot_monitor
+Description: Description of robot_monitor
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
