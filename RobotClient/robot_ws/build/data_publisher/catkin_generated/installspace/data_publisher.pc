@@ -1,8 +1,0 @@
-prefix=/home/codezen/ROSRobot/robot_ws/install
-
-Name: data_publisher
-Description: Description of data_publisher
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
